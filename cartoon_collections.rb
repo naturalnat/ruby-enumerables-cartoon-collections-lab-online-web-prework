@@ -18,4 +18,3 @@ def find_the_cheese(cheese)
   array.find { |array| |a| a == "cheddar" || a == "gouda" || a == "camembert" }
 
  end
-end
